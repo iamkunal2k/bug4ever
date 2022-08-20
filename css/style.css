@@ -1,0 +1,635 @@
+    body {
+        background-image: linear-gradient(to right, #000 , #020B1A);
+        box-sizing: border-box;
+        margin: 0%;
+        padding: 0%;
+        overflow-x: hidden;
+    }
+
+
+    
+    .Sponsors {
+        height: 400px;
+    }
+    .Sponsor-head img {
+        width: 329px;
+        height: auto;
+        margin-left: 113px;
+    }
+
+    .contact-section{
+        background-image: url('../Static/contact-bg.png');
+        background-repeat: no-repeat;
+        width: 1271px;
+        height: auto;
+    }  
+
+    .Contact {
+        width: 1241px;
+        height: 670px;
+        background-color: rgba(128, 128, 128, 0.22);
+        margin-left: 115px;
+        font-family: "DM Sans";
+        border-radius: 50px;
+        margin-right: 84px;
+    }
+
+    .contact-left {
+        height:460px;
+        width: 50%;
+        float: left;
+        margin-top: 73px;
+        font-family: "DM Sans";
+    }
+
+    
+    .contact-right {
+        height:460px;
+        width: 50%;
+        float: right;
+        margin-top: 73px;
+    }
+
+    .contact-left h1 {
+        margin-left: 92px;
+        color: #00ADB5;
+        font-size: 33px;
+    }
+
+    .contact-left h3 {
+        font-size: 19px;
+        color: #fff;
+        margin-left: 92px;
+        padding-right: 112px;
+        line-height: 45px;
+    }
+
+    .Email {
+        width: 300px;
+        height: 50px;
+        margin-left: 92px;
+    }
+
+    .Contact-email {
+        float: left;
+        font-size: 22px;
+        color: #00ADB5;
+        font-family: "DM Sans";
+        margin-top: -0.1px;
+        margin-left: 5px;
+    }
+
+    .Email img {
+        float: left;
+    }
+
+    .Contact-call {
+        float: left;
+        font-size: 22px;
+        color: #00ADB5;
+        font-family: "DM Sans";
+        margin-top: -0.1px;
+        margin-left: 5px;
+    }
+
+    .telephone img {
+        float: left;
+    }
+
+    .telephone {
+        width: 300px;
+        height: 50px;
+        margin-left: 92px;
+    }
+
+    .contact-right h1{ 
+            color: #00ADB5;
+            font-size: 33px;
+            font-family: "DM Sans";
+        }
+
+    .contact-right h2 {
+        color: #fff;
+        font-size: 22px;
+        font-family: "DM Sans";
+        letter-spacing: 1px;
+    }
+
+    .contact-right h3 {
+        color: #c4c4c4;
+        font-size: 19px;
+        padding-right: 130px;
+        line-height: 35px;
+        word-spacing: 3px;
+    }
+
+    .contact-right img {
+        width: 400px;
+        height: 235px;
+        border-radius: 25px;
+    }
+
+
+    .footer {
+        width: 100%;
+        height: 190px;
+        margin-top: 73px;
+    }
+
+    .footer-vertical-line {
+        height: 93px;
+        width: 10px;
+        background-color: #00ADB5;
+        float: left;
+        margin-left: 50%;
+    }
+
+    .footer img {
+        width: 280px;
+        height: auto;
+        margin-top: 146px;
+        margin-left: -10%;
+    }
+
+      .footer-global ul{
+        list-style-type: none;
+        line-height: 30px;
+        font-size: 15px;
+        margin-bottom: 0;
+      }
+      .footer-global ul a{
+        color: #fff;
+        text-decoration: none;
+        transition: 0.3s;
+      }
+
+      .footer-global .social {
+        width: 93%;
+        margin-top: 2px;
+        text-align: center;
+        padding: 40px;
+        padding-bottom: 0px;
+        margin-left: auto;
+      }
+      .footer-global .social a{
+        font-size: 30px;
+        width: 45px;
+        height: 45px;
+        line-height: 46px;
+        display: inline-block;
+        border-radius: 50%;
+        border: 2px solid #00ADB5;
+        margin: 15px;
+        transition: 0.3s ease-in-out;
+        color: #fff;
+        text-align: center;
+
+      }
+      .footer-global .social a:hover{
+        opacity: 0.9;
+        box-shadow: 0px 1px 3px 2px rgba(255, 255, 255, 0.9);
+      }
+      .footer-global .copyright{
+        text-align: center;
+        padding-top: 24px;
+        font-weight: bold;
+        opacity: 0.8;
+        font-size: 22px;
+        padding-bottom: 120px;
+        font-family: "DM Sans";
+        letter-spacing: 1.5px;
+        color: #c4c4c4;
+      }
+     
+@media (max-width: 835px) { 
+    body {
+        box-sizing: border-box;
+        margin: 0%;
+        padding: 0%;
+        overflow-x: hidden;
+    }
+
+    .Sponsors {
+        height: 250px;
+    }
+    .Sponsor-head img {
+        width: 250px;
+        height: auto;
+        margin-left: 58px;
+    }
+
+    .Contact {
+        width: 719px;
+        height: 1121px;
+        background-color: rgba(128, 128, 128, 0.22);
+        margin-left: 58px;
+        font-family: "DM Sans";
+        border-radius: 50px;
+        margin-right: 58px;
+    }
+
+    .contact-left {
+        height:460px;
+        width: 100%;
+        float: left;
+        font-family: "DM Sans";
+    }
+
+    
+    .contact-right {
+        height:460px;
+        width: 100%;
+        float: left;
+        margin-top: -7px;
+    }
+
+    .contact-left h1 {
+        margin-left: 69px;
+        color: #00ADB5;
+        font-size: 33px;
+        font-weight: bold;
+        margin-top: -10px;
+
+    }
+
+    .contact-left h3 {
+        font-size: 19px;
+        color: #fff;
+        margin-left: 69px;
+        font-family: "DM Sans";
+        letter-spacing: 1.5px;
+        word-spacing: 2px;
+        line-height: 45px;
+        padding-right: 68px;
+        justify-content: left;
+    }
+
+    .Email {
+        width: 300px;
+        height: 50px;
+        margin-left: 68px;
+    }
+
+    .Contact-email {
+        float: left;
+        font-size: 19px;
+        color: #00ADB5;
+        font-family: "DM Sans";
+        margin-top: -0.2px;
+        margin-left: 7px;
+    }
+
+    .Email img {
+        float: left;
+        height: 30px;
+        width: 30px;
+    }
+
+    .Contact-call {
+        float: left;
+        font-size: 19px;
+        color: #00ADB5;
+        font-family: "DM Sans";
+        margin-top: -0.2px;
+        margin-left: 7px;
+    }
+
+    .telephone img {
+        float: left;
+        height: 30px;
+        width: 30px;
+    }
+
+    .telephone {
+        width: 300px;
+        height: 50px;
+        margin-left: 68px;
+    }
+
+    .contact-right h1{ 
+            color: #00ADB5;
+            font-size: 33px;
+            font-family: "DM Sans";
+            margin-left: 68px;
+            margin-top: -40px;
+        }
+
+    .contact-right h2 {
+        color: #fff;
+        font-size: 22px;
+        font-family: "DM Sans";
+        margin-left: 68px;
+    }
+
+    .contact-right h3 {
+        color: #c4c4c4;
+        font-size: 19px;
+        margin-left: 68px;
+        letter-spacing: 1.5px;
+        word-spacing: 2px;
+        line-height: 45px;
+        width: 90%;
+        padding-right: 20px;
+    }
+
+    .contact-right img {
+        width: 580px;
+        height: 330px;
+        border-radius: 25px;
+        margin-left: 68px;
+        margin-right: 68px;
+    }
+
+
+    .footer {
+        width: 100%;
+        height: 190px;
+        margin-top: 73px;
+    }
+
+    .footer-vertical-line {
+        height: 93px;
+        width: 8px;
+        background-color: #00ADB5;
+        float: left;
+        margin-left: 49.8%;
+    }
+
+    .footer img {
+        width: 212px;
+        height: auto;
+        margin-top: 35px;
+        margin-left: 300px;
+    }
+
+    
+    .footer-global ul{
+        list-style-type: none;
+        line-height: 30px;
+        font-size: 15px;
+        margin-bottom: 0;
+      }
+      .footer-global ul a{
+        color: #fff;
+        text-decoration: none;
+        transition: 0.3s;
+      }
+
+      .footer-global .social {
+        width: 90%;
+        text-align: center;
+        padding: 40px;
+        padding-bottom: 0px;
+        margin-left: auto;
+        margin-top: -25px;
+      }
+      .footer-global .social a{
+        font-size: 30px;
+        width: 45px;
+        height: 45px;
+        line-height: 46px;
+        display: inline-block;
+        border-radius: 50%;
+        border: 2px solid #00ADB5;
+        margin: 15px;
+        transition: 0.3s ease-in-out;
+        color: #fff;
+        text-align: center;
+
+      }
+      .footer-global .social a:hover{
+        opacity: 0.9;
+        box-shadow: 0px 1px 3px 2px rgba(255, 255, 255, 0.9);
+      }
+      .footer-global .copyright{
+        text-align: center;
+        padding-top: 24px;
+        font-weight: bold;
+        opacity: 0.8;
+        font-size: 22px;
+        padding-bottom: 70px;
+        font-family: "DM Sans";
+        letter-spacing: 1.5px;
+        margin-top: -5px;
+        color: #c4c4c4;
+      }
+    }
+
+
+@media (max-width: 361px) { 
+    body {
+        box-sizing: border-box;
+        margin: 0%;
+        padding: 0%;
+        overflow-x: hidden;
+    }
+
+    .Sponsors {
+        height: 250px;
+    }
+
+    .Sponsor-head img {
+        width: 187px;
+        height: auto;
+        margin-left: 21px;
+    }
+
+    .Contact {
+        width: 336px;
+        height: 1045px;
+        background-color: rgba(128, 128, 128, 0.22);
+        margin-left: 13px;
+        font-family: "DM Sans";
+        border-radius: 50px;
+        margin-right: 13px;
+     }
+
+    .contact-left {
+        height:545px;
+        width: 100%;
+        font-family: "DM Sans";
+        margin-top: 39px;
+    }
+
+    
+    .contact-right {
+        height: 400px;
+        width: 100%;
+    }
+
+    .contact-left h1 {
+        margin-left: 29px;
+        color: #00ADB5;
+        font-size: 28px;
+        font-weight: bold;
+
+    }
+
+    .contact-left h3 {
+        font-size: 16px;
+        color: #fff;
+        margin-left:29px;
+        font-family: "DM Sans";
+        letter-spacing: 1.5px;
+        word-spacing: 2px;
+        line-height: 45px;
+        padding-right: 29px;
+        justify-content: left;
+        margin-top: 35px;
+    }
+
+    .Email {
+        width: 100%;
+        height: 50px;
+        margin-left: 29px;
+        margin-top: 35px;
+    }
+
+    .Contact-email {
+        float: left;
+        font-size: 20px;
+        color: #00ADB5;
+        font-family: "DM Sans";
+        margin-top: -0.2px;
+        margin-left: 7px;
+    }
+
+    .Email img {
+        float: left;
+        height: 30px;
+        width: 30px;
+    }
+
+    .Contact-call {
+        float: left;
+        font-size: 20px;
+        color: #00ADB5;
+        font-family: "DM Sans";
+        margin-top: -0.3px;
+        margin-left: 7px;
+    }
+
+    .telephone img {
+        float: left;
+        height: 30px;
+        width: 30px;
+    }
+
+    .telephone {
+        width: 300px;
+        height: 50px;
+        margin-left: 29px;
+    }
+
+    .contact-right h1{ 
+            color: #00ADB5;
+            font-size: 28px;
+            font-family: "DM Sans";
+            margin-left: 29px;
+        }
+
+    .contact-right h2 {
+        color: #fff;
+        font-size: 16px;
+        font-family: "DM Sans";
+        margin-left: 29px;
+        margin-top: 35px;
+    }
+
+    .contact-right h3 {
+        color: #c4c4c4;
+        font-size: 16px;
+        margin-left: 29px;
+        letter-spacing: 1.5px;
+        word-spacing: 2px;
+        line-height: 30px;
+        width: 85%;
+    }
+
+    .contact-right img {
+        width: 288px;
+        height: auto;
+        border-radius: 25px;
+        margin-left: 26px;
+        margin-right: 22px;
+        margin-top: 35px;
+    }
+
+    .footer {
+        width: 100%;
+        height: 300px;
+        margin-top: 73px;
+    }
+
+    .footer-vertical-line {
+        height: 76px;
+        width: 8px;
+        background-color: #00ADB5;
+        float: left;
+        margin-left: 50%;
+    }
+
+    .footer img {
+        width: 213px;
+        height: auto;
+        margin-left: 76px;
+    }
+
+    .footer-global {
+        width: 85%;
+    }
+    .footer-global ul{
+        list-style-type: none;
+        line-height: 30px;
+        font-size: 15px;
+        margin-bottom: 0;
+      }
+      .footer-global ul a{
+        color: #fff;
+        text-decoration: none;
+        transition: 0.3s;
+      }
+
+      .footer-global .social {
+        text-align: center;
+        padding: 40px;
+        padding-bottom: 0px;
+        margin-top: -25px;
+        margin-left: -07x;
+      }
+      .footer-global .social a{
+        font-size: 30px;
+        width: 45px;
+        height: 45px;
+        line-height: 46px;
+        display: inline-block;
+        border-radius: 50%;
+        border: 2px solid #00ADB5;
+        margin: 15px;
+        transition: 0.3s ease-in-out;
+        color: #fff;
+        text-align: center;
+
+      }
+      .footer-global .social a:hover{
+        opacity: 0.9;
+        box-shadow: 0px 1px 3px 2px rgba(255, 255, 255, 0.9);
+      }
+      .footer-global .copyright{
+        text-align: center;
+        padding-top: 25px;
+        font-weight: bold;
+        opacity: 0.8;
+        font-size: 12px;
+        padding-bottom: 50px;
+        font-family: "DM Sans";
+        margin-top: -4px;
+        color: #c4c4c4;
+        width: 100%;
+        margin-left: 20px;
+      }
+
+    }
+
+
+
